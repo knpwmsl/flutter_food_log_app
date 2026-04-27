@@ -7,14 +7,12 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Supabase.initialize(
-    url: 'https://jzfgqsenffusofccoknf.supabase.co/rest/v1/',
+    url: 'https://jzfgqsenffusofccoknf.supabase.co',
     anonKey:
         'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp6Zmdxc2VuZmZ1c29mY2Nva25mIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY5NDM5MTIsImV4cCI6MjA5MjUxOTkxMn0.p7WJqr3ka0Yz2ESC82qb6Ue8Djmw38ePjU_cvNuEuCE',
   );
 
-  runApp(
-    FlutterFoodLogApp(),
-  );
+  runApp(FlutterFoodLogApp());
 }
 
 class FlutterFoodLogApp extends StatefulWidget {
