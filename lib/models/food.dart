@@ -3,11 +3,11 @@
 class Food {
   //ตัวแปรที่ตั้งชื่อล้อกับคอลัมน์ในฐานข้อมูล
   String? id;
-  String? foodDate;
-  String? foodMeal;
-  String? foodName;
-  double? foodPrice;
-  int? foodPerson;
+  String foodDate;
+  String foodMeal;
+  String foodName;
+  double foodPrice;
+  int foodPerson;
 
   Food({
     this.id,
