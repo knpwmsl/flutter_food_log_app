@@ -1,17 +1,11 @@
-# flutter_food_log_app
+## Mobile Application with Flutter & Dart
 
-A new Flutter project.
+## UI for Food Log App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" src="https://github.com/user-attachments/assets/7e671e09-37bd-40f9-aa35-1bf7ca275e29" />
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img width="250" src="https://github.com/user-attachments/assets/58a66521-d4fe-4cb5-b649-8333bf9eaf2b" />
+<br /><br /><br />
+<img width="250" src="https://github.com/user-attachments/assets/a54d8ff1-e59f-4f01-9e85-5a2eab0e6dc8" />
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img width="250" src="https://github.com/user-attachments/assets/30bae275-b888-474b-acd6-d27bc04a0022" />
